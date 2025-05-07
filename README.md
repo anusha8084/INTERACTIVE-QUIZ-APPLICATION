@@ -81,7 +81,24 @@ style.css – Contains all design and layout rules.
 
 script.js – Includes all quiz logic, feedback, and scoring functionality.
 
-These files were uploaded to GitHub using both the "Upload files" method and Git via Terminal, depending on the workflow. Developers can also use GitHub Desktop or Visual Studio Code’s terminal to push code directly to the remote repository.
+These files were uploaded to GitHub using both the "Upload files" method and Git via Terminal, depending on the workflow. Developers can also use GitHub Desktop or Visual Studio Code’s terminal to push code 
+directly to the remote repositorY
 
 📄 Conclusion
 This project showcases strong fundamentals in front-end development, including DOM manipulation, responsive design, and logic implementation using JavaScript. It also demonstrates the use of modern developer tools like VS Code, Git, and GitHub Pages. The result is a lightweight, interactive quiz application that can be deployed anywhere and extended for multiple use cases with minimal adjustments.
+
+*OUTPUT*: ![Image](https://github.com/user-attachments/assets/fd1d7729-65dc-4c80-b422-2dd65781ac41)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
